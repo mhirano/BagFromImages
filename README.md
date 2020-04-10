@@ -6,18 +6,6 @@ The bag will publish the images to topic `/camera/image_raw`.
 
 Tested in ROS Fuerte.
 
-## Installation
-
-In your ROS_PACKAGE_PATH (check your environment variable ROS_PACKAGE_PATH):
-
-    git clone https://github.com/raulmur/BagFromImages.git BagFromImages
-    
-    cd BagFromImages
-    mkdir build
-    cd build
-    cmake ..
-    make
-    
 ## Installation on Ubuntu 16.04 kinetic
 An excerpt from a nice intruction by Cartucho with a bit additional commands
 https://github.com/raulmur/BagFromImages/issues/1#issuecomment-525041608
