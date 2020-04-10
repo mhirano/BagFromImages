@@ -4,13 +4,11 @@ ROS package to generate a rosbag from a collection of images. Images are ordered
 
 The bag will publish the images to topic `/camera/image_raw`.
 
-Tested in ROS Fuerte.
-
 ## Installation on Ubuntu 16.04 kinetic
 An excerpt from a nice intruction by Cartucho with a bit additional commands
 https://github.com/raulmur/BagFromImages/issues/1#issuecomment-525041608
 
-I tested the following commands on Ubuntu 16.04.6 LTS Xenial Xerus
+I tested following commands on Ubuntu 16.04.6 LTS Xenial Xerus with 
 
 Similarly I did the following:
 
